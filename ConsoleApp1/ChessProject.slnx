@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ClassLibrary1/ClassLibrary.csproj" />
+  <Project Path="ConsoleApp1/ChessApp.csproj" />
+</Solution>
