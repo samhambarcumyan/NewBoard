@@ -1,0 +1,11 @@
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\bin\Debug\net10.0\ClassLibrary.deps.json
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\bin\Debug\net10.0\ClassLibrary.dll
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\bin\Debug\net10.0\ClassLibrary.pdb
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\ClassLibrary.dll
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\refint\ClassLibrary.dll
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\ClassLibrary.pdb
+C:\Users\Hambardzumyan\Desktop\NewBoard\ClassLibrary1\obj\Debug\net10.0\ref\ClassLibrary.dll
